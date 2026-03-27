@@ -3371,7 +3371,7 @@ class ConfigService:
 
             # 如果没有指定模型，使用默认模型
             if not model_name:
-                model_name = "gemini-2.0-flash-exp"
+                model_name = "gemini-2.0-flash"
                 logger.info(f"⚠️ 未指定模型，使用默认模型: {model_name}")
 
             logger.info(f"🔍 [Google AI 测试] 开始测试")
