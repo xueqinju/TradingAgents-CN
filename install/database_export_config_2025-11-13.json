@@ -13067,7 +13067,7 @@
         "description": "Google的人工智能平台，提供Gemini系列模型",
         "website": "https://ai.google.dev",
         "api_doc_url": "https://ai.google.dev/docs",
-        "default_base_url": "https://ai.241207.xyz:4580/proxy/gemini/v1beta",
+        "default_base_url": "https://generativelanguage.googleapis.com/v1beta",
         "is_active": true,
         "supported_features": [
           "chat",
